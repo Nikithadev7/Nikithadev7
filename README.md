@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nikithadev7
+- 👋 Hi, I’m Nikitha
 - 👀 I’m interested in AI/ML, CSE
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on AI/ML, Coding hackathon
